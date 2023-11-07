@@ -39,6 +39,15 @@ main {
   cursor: pointer;
 }
 
+#muscle-selection button {
+  background-color: #0077b6;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+}
+
 #exercise-list {
   margin-top: 20px;
 }
